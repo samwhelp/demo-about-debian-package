@@ -69,6 +69,8 @@ exit 10
 EOF
 ```
 
+觀於「postinst」的概念，可以參考「Debian Wiki / MaintainerScripts」。
+
 
 ### 觀看專案資料夾結構
 

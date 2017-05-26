@@ -19,7 +19,7 @@ mkdir -p demo/usr/bin
 
 執行下面指令，產生「demo/DEBIAN/control」
 
-```
+``` sh
 cat > demo/DEBIAN/control << EOF
 Package: demo
 Version: 0.1

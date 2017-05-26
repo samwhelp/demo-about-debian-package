@@ -18,7 +18,7 @@ $ mkdir -p demo/DEBIAN
 
 執行下面指令，產生「demo/DEBIAN/control」
 
-```
+``` sh
 cat > demo/DEBIAN/control << EOF
 Package: demo
 Version: 0.1
@@ -46,6 +46,8 @@ $ tree demo
 demo
 └── DEBIAN
     └── control
+
+1 directory, 1 file
 ```
 
 
