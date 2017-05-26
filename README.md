@@ -6,3 +6,8 @@ Demo About Debian Package
 
 * [start](example/build/start)
 * [basic](example/build/basic)
+
+
+## Demo Issue
+
+* [postinst-error](example/issue/postinst-error)
