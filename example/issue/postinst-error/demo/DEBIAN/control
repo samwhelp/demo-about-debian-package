@@ -1,0 +1,6 @@
+Package: demo
+Version: 0.1
+Architecture: all
+Description: This is a test package.
+Maintainer: developer <developer@home.heaven>
+
