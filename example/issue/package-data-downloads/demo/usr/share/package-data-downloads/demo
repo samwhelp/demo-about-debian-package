@@ -1,0 +1,6 @@
+
+Url: https://raw.githubusercontent.com/samwhelp/demo-about-debian-package/master/download/demo.txt
+Sha256: 0f0af810c640b514ea0cc792ac03611b978928465d9cd43b607d236848969c7f
+
+Script: /usr/bin/demo
+

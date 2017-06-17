@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+echo '================================================='
+echo '# Test package-data-downloads'
+echo
+
+cp /var/lib/update-notifier/package-data-downloads/partial/demo.txt /tmp/demo.txt
+
+echo 'copy'
+echo '	/var/lib/update-notifier/package-data-downloads/partial/demo.txt'
+echo 'to'
+echo '	/tmp/demo.txt'
+echo
+echo '================================================='
+echo
+echo '$ cat /tmp/demo.txt'
+echo
+echo '-------------------------------------------------'
+
+cat /tmp/demo.txt
+
+echo '-------------------------------------------------'
+echo '================================================='
+
