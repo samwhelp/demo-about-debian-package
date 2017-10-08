@@ -352,3 +352,8 @@ $ sudo dpkg -r demo
 ``` sh
 $ sudo apt-get remove demo
 ```
+
+
+## 相關討論
+
+* [url=https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357678#forumpost357678]#5 回覆: 每次開機都跳出「下載額外資料檔案失敗 flashplugin-installer」[/url]
