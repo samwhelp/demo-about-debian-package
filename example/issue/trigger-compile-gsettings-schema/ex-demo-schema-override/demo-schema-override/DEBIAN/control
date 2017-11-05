@@ -1,0 +1,6 @@
+Package: demo-schema-override
+Version: 0.1
+Architecture: all
+Description: This is a demo package for gsettings schema override.
+Maintainer: developer <developer@home.heaven>
+

@@ -1,0 +1,10 @@
+<schemalist>
+	<schema id="org.test.demo" path="/org/test/demo/" gettext-domain="demo">
+		<key name="to-be-or-not-to-be" type="b">
+			<default>true</default>
+			<summary>To be, or not to be</summary>
+			<description>To be, or not to be?</description>
+		</key>
+	</schema>
+</schemalist>
+
