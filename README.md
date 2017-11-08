@@ -17,4 +17,4 @@ Demo About Debian Package
 
 ## Demo Plan
 
-* [basic-deb-build-package](example/plan/basic-build-deb-package)
+* [basic-build-deb-package](example/plan/basic-build-deb-package)
