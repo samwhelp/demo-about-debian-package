@@ -1,5 +1,5 @@
 
-# demo project for make deb package
+# demo plan for make deb package
 
 
 ## build deb
