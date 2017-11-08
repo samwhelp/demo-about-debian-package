@@ -11,3 +11,10 @@ Demo About Debian Package
 ## Demo Issue
 
 * [postinst-error](example/issue/postinst-error)
+* [package-data-downloads](example/issue/package-data-downloads)
+* [trigger-compile-gsettings-schema](example/issue/trigger-compile-gsettings-schema)
+
+
+## Demo Plan
+
+* [basic-deb-build-package](example/plan/basic-build-deb-package)
