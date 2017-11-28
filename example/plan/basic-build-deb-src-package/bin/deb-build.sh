@@ -29,6 +29,17 @@ cd $THE_MAIN_DIR_PATH
 ## now in dir [prj/demo]
 
 
+## man dpkg-buildpackage
+## to build only the binary package(s)
+#dpkg-buildpackage -i -us -uc -b
+
+## to build binary package(s) and source package
+#dpkg-buildpackage -i -us -uc
+
+
+
+
+## man dpkg-buildpackage
 ## man debuild
 ## to build only the binary package(s)
 #debuild -i -us -uc -b
