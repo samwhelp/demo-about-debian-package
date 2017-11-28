@@ -1,0 +1,15 @@
+Source: demo
+Section: utils
+Priority: optional
+Maintainer: samwhelp <samwhelp@users.noreply.github.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Vcs-Git: https://github.com/samwhelp/demo-about-debian-package.git
+Vcs-Browser: https://github.com/samwhelp/demo-about-debian-package
+
+Package: demo
+Section: utils
+Architecture: all
+Depends: ${misc:Depends}
+Description: This is a test package.
+ This is a package for build debian package.

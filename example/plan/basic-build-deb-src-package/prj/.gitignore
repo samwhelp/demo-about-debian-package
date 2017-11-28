@@ -1,0 +1,5 @@
+demo/debian/demo
+demo/debian/.debhelper
+demo/debian/*.debhelper.log
+demo/debian/*.substvars
+demo/debian/files
