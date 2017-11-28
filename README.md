@@ -18,3 +18,4 @@ Demo About Debian Package
 ## Demo Plan
 
 * [basic-build-deb-package](example/plan/basic-build-deb-package)
+* [basic-build-deb-src-package](example/plan/basic-build-deb-src-package)
