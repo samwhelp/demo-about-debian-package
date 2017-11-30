@@ -3,7 +3,7 @@
 
 ## init
 THE_BASE_DIR_PATH=$(cd -P -- "$(dirname -- "$0")" && pwd -P)
-source $THE_BASE_DIR_PATH/_init.sh
+source "$THE_BASE_DIR_PATH/_init.sh"
 
 
 ## prepare dir
@@ -11,7 +11,7 @@ base_dir_prepare
 
 
 ## cd ../var
-cd $THE_VAR_DIR_PATH
+cd "$THE_VAR_DIR_PATH"
 ## pwd
 
 ## now in dir [var]
